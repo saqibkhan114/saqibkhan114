@@ -1,0 +1,18 @@
+.plus {
+  position:relative;
+  border: 1px dotted white;
+  width: 3px;
+  height: 3px;
+  background-color: black;
+  box-sizing: border-box;
+  transform: scale(5);
+}
+
+.minus {
+  position:relative;
+  border: 1px dotted white;
+  height: 3px;
+  background-color: black;
+  box-sizing: border-box;
+  transform: scale(5);
+}
